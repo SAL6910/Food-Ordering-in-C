@@ -50,4 +50,6 @@ You can run the code from cmd.
 
 1. C
 
+## Note
 
+You can run the code with the executable file directly.
