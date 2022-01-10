@@ -10,35 +10,21 @@ This project is about ordering food. You are free to to use this project for col
     <b>Main Page</b>
 </p>
 
-<img src="SS/Screenshot (8).png" alt="Main">
+<img src="SS/Main Page.png" alt="Main">
 
 
 <p align="center">
-    <b>Login Page</b>
+    <b>Menu Page</b>
 </p>
 
-<img src="SS/Screenshot (2).png" alt="Main">
+<img src="SS/Menu Page.png" alt="Menu">
 
 
 <p align="center">
-    <b>Register Page</b>
+    <b>Bill Generation Page</b>
 </p>
 
-<img src="SS/Screenshot (3).png" alt="Main">
-
-
-<p align="center">
-    <b>Dishes Page</b>
-</p>
-
-<img src="SS/Screenshot (4).png" alt="Main">
-
-
-<p align="center">
-    <b>Admin Home Page</b>
-</p>
-
-<img src="SS/Screenshot (5).png" alt="Main">
+<img src="SS/Bill Generation Page.png" alt="Bill">
 
 
 ## Installation
