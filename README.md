@@ -4,7 +4,7 @@
 
 This project is about ordering food. You are free to to use this project for college or school purposes. Please note that this project is not made for business or commercial purposes.
 
-
+## Screenshots
 
 <p align="center">
     <b>Main Page</b>
